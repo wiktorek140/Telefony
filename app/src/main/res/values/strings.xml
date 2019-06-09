@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Baza telefonów</string>
+    <string name="producent_napis">Producent:</string>
+    <string name="model_napis">Model:</string>
+    <string name="android_napis">Wersja Androida:</string>
+    <string name="www_napis">Strona/zapytanie: </string>
+    <string name="anuluj_przycisk">Anuluj</string>
+    <string name="zapisz_przycisk">Zapisz</string>
+    <string name="wypelnij_pola_komunikat">Wypełnij wszystkie pola!</string>
+    <string name="wypelnij_url_komunikat">Wypełnij pole adresu!</string>
+    <string name="dodaj">Dodaj</string>
+    <string name="kasuj">Usuń</string>
+    <string name="www_przejdz">Otwórz WWW</string>
+    <string name="np_producent">np. Motorola</string>
+    <string name="np_model">np. Moto G5S</string>
+    <string name="np_www">np. https://google.com</string>
+    <string name="np_system">np. 8.1.0</string>
+</resources>

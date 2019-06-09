@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dodaj"
+        android:icon="@drawable/ic_add_circle_white_36dp"
+        android:showAsAction="always"
+        android:title="@string/dodaj"
+        android:visible="true"
+        app:showAsAction="always"
+        tools:ignore="AppCompatResource" />
+</menu>
